@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "schema.yaml": "program.yaml"
+        
+    }
+}

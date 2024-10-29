@@ -1,0 +1,4 @@
+[project]
+name = "exceptions"
+version = "1.0.0"
+dependencies = ["PyYaml ~= 6.0"]

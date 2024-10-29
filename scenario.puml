@@ -1,0 +1,11 @@
+@startuml Exceptions
+
+-> task
+task -> drive
+alt
+    drive -> drive: engine Engine();
+else fail
+    task <-- drive
+end
+
+@enduml

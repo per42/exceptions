@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "tamasfe.even-better-toml",
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "jebbs.plantuml",
+        "redhat.vscode-yaml"
+    ]
+}
